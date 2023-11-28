@@ -7,6 +7,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //mahadi
+        //dipu
+        //shakib
+        //mehedi
+        //rakib
+        //roman
+
+
         //this is a git apps
     }
 }
